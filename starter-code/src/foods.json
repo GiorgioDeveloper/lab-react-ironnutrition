@@ -1,6 +1,6 @@
 [
   {
-    "name": "Pizza",
+    "name": "Pizza quattro stazioni",
     "calories": 400,
     "image": "https://i.imgur.com/eTmWoAN.png",
     "quantity": 0
@@ -18,7 +18,7 @@
     "quantity": 0
   },
   {
-    "name": "Gnocchi",
+    "name": "Gnocci",
     "calories": 500,
     "image": "https://i.imgur.com/93ekwW0.jpg",
     "quantity": 0
@@ -30,7 +30,7 @@
     "quantity": 0
   },
   {
-    "name": "Lasagna",
+    "name": "Lasagna bologneise",
     "calories": 750,
     "image": "https://i.imgur.com/ClxOafl.jpg",
     "quantity": 0
